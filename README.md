@@ -11,6 +11,7 @@ Installation
 ================
 
 Run follow Code in your console:
+
 wget https://raw.github.com/codingdev/Lighttpd-Auto-Installer/master/installer.sh -O installer.sh && sh installer.sh
 
 License
