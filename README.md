@@ -4,7 +4,7 @@ Lighttpd Auto Installer
 * Lighttpd
 * MySQL
 * PHP5
-- Modules for MySQL
+ - Modules for MySQL
 * phpMyAdmin
 
 Installation
