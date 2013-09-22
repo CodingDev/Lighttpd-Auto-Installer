@@ -7,6 +7,8 @@ Lighttpd Auto Installer
  - Modules for MySQL
 * phpMyAdmin
 
+Warning: Existing web server / files could possibly be overwritten.
+
 Installation
 ================
 
