@@ -12,11 +12,12 @@ Installation
 
 Run follow Code in your console:
 
-wget http://bit.ly/1ezKlQP -O installer.sh && sh installer.sh
+# wget http://bit.ly/1ezKlQP -O installer.sh && sh installer.sh
 
-OR
+Alternative
+================
 
-wget https://raw.github.com/codingdev/Lighttpd-Auto-Installer/master/installer.sh -O installer.sh && sh installer.sh
+# wget https://raw.github.com/codingdev/Lighttpd-Auto-Installer/master/installer.sh -O installer.sh && sh installer.sh
 
 License
 ================
